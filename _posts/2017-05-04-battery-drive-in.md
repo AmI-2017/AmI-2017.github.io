@@ -1,9 +1,9 @@
 ---
 title: "The Battery Drive-In"
-date: 2017-05-04 12:20:00 +0200
+date: 2017-05-14 20:00:00 +0200
 categories: projects
-image: images/showcase-header.jpg
+image: images/project-snapshots/batteryin.png
 project_url: https://ami-2017.github.io/battery-in
 ---
 
-Coming soon...
+Improve the experience with electric cars: switch batteries up!

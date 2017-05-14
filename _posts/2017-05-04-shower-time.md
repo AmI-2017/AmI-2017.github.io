@@ -1,8 +1,8 @@
 ---
 title: "Shower Time"
-date: 2017-05-04 12:10:00 +0200
+date: 2017-05-14 20:10:00 +0200
 categories: projects
-image: images/showcase-header.jpg
+image: images/project-snapshots/showertime.png
 project_url: https://ami-2017.github.io/shower-time
 ---
 

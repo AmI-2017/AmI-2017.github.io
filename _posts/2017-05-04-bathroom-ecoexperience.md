@@ -1,9 +1,9 @@
 ---
 title: "Bathroom Eco-Experience"
-date: 2017-05-04 12:25:00 +0200
+date: 2017-05-14 20:00:00 +0200
 categories: projects
-image: images/showcase-header.jpg
+image: images/project-snapshots/bex.png
 project_url: https://ami-2017.github.io/BeX
 ---
 
-Coming soon...
+An intelligent didactical bathroom for educating children to not waste water.
