@@ -1,0 +1,10 @@
+<div class="mdl-grid img-vcenter">
+
+    {% for partner in site.data.partners %}
+
+    <div class="mdl-cell mdl-cell--3-col-desktop" >
+        <a href="{{partner.url}}" title="{{partner.name}}"><img class="card-image" src="{{partner.image | prepend: site.baseurl}}" border="0" alt="{{partner.name}}"></a>
+    </div>
+
+    {% endfor %}
+</div>

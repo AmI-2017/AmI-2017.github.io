@@ -2,6 +2,10 @@
   image: /images/sponsors/reply.jpg
   url: http://www.reply.eu
 
+- name: Consoft Sistemi S.p.A.
+  image: /images/sponsors/consoft.jpg
+  url: https://www.consoft.it
+
 - name: I3P
   image: /images/sponsors/i3p.jpg
   url: http://www.i3p.it
@@ -9,7 +13,7 @@
 - name: Treatabit
   image: /images/sponsors/treatabit.png
   url: http://www.treatabit.com
-  
+
 - name: Nital S.p.A.
   image: /images/sponsors/nital.png
   url: https://www.nital.it

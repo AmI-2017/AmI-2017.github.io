@@ -12,6 +12,15 @@ For the **2017 edition**, we sincerely thank:
 {% include sponsor-list.html %}
 ---
 
+#### Technical Partners ####
+
+Technical partners support students' teams with material and share advanced knowledge with them.
+
+For the **2017 edition** we want to express our gratitude to:
+
+{% include partner-list.html %}
+---
+
 #### Sponsoring the course ####
 
 If you are interested in the Ambient Intelligence course, consider becoming a sponsor!
