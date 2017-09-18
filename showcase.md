@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: page
 title: Showcase
 permalink: /showcase/
 image: /images/showcase-header-2017.png
